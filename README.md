@@ -22,9 +22,9 @@
 
 💼 Projects
 ------------
-<img src="https://img.shields.io/badge/-EDA-lightgrey "/> <a href="https://github.com/PCEO-AI-CLUB/KID-F"> KID-F<a/> - Making high quality face image dataset of K-pop female idol.
+*`EDA`<a href="https://github.com/PCEO-AI-CLUB/KID-F"> KID-F<a/> - Making high quality face image dataset of K-pop female idol.
                                                                                                                       
-<img src="https://img.shields.io/badge/-EDA-lightgrey "/> <a href="https://github.com/PCEO-AI-CLUB/IdolGAN"> IdolGAN<a/> - Researching and developing super resolution model for restoring K-pop girl group idols.
+*<img src="https://img.shields.io/badge/-EDA-lightgrey "/> <a href="https://github.com/PCEO-AI-CLUB/IdolGAN"> IdolGAN<a/> - Researching and developing super resolution model for restoring K-pop girl group idols.
 
 <!--
 **Hyunwook-Kwon/Hyunwook-Kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

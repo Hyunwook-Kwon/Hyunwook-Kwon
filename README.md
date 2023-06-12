@@ -30,9 +30,9 @@
 
 💼 Projects
 ------------
-*`EDA`<a href="https://github.com/PCEO-AI-CLUB/KID-F"> KID-F<a/> - Making high quality face image dataset of K-pop female idol.
+`EDA`<a href="https://github.com/PCEO-AI-CLUB/KID-F"> KID-F<a/> - Making high quality face image dataset of K-pop female idol.
                                                                                                                       
-*`EDA` <a href="https://github.com/PCEO-AI-CLUB/IdolGAN"> IdolGAN<a/> - Researching and developing super resolution model for restoring K-pop girl group idols.
+`EDA` <a href="https://github.com/PCEO-AI-CLUB/IdolGAN"> IdolGAN<a/> - Researching and developing super resolution model for restoring K-pop girl group idols.
 
 📫 How to reach me
 --------------------

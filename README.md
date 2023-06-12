@@ -1,8 +1,10 @@
 ### Hi there 👋 I'm Hyun-wook Kwon.
 
+Skills 
+------------
+Laguages 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-
-🌱 I’m currently learning ...
 <!--
 **Hyunwook-Kwon/Hyunwook-Kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

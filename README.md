@@ -34,6 +34,13 @@
                                                                                                                       
 *`EDA` <a href="https://github.com/PCEO-AI-CLUB/IdolGAN"> IdolGAN<a/> - Researching and developing super resolution model for restoring K-pop girl group idols.
 
+📫 How to reach me
+--------------------
+  sad6601@naver.com
+  https://www.instagram.com/kwon_hyunwook/
+  
+  
+  
 <!--
 **Hyunwook-Kwon/Hyunwook-Kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hyun-wook Kwon.
+### Hi there 👋 I'm Hyun-wook Kwon. Junior Student in Sejong University 
 
 🤩Skills 
 ------------
@@ -46,6 +46,7 @@ ETC.
   
 📫 How to reach me
 --------------------
+  
   sad6601@naver.com <br>
   https://www.instagram.com/kwon_hyunwook/
   

@@ -34,13 +34,31 @@
                                                                                                                       
 `EDA` <a href="https://github.com/PCEO-AI-CLUB/IdolGAN"> IdolGAN<a/> - Researching and developing super resolution model for restoring K-pop girl group idols.
 
+  
+  
+  
+ETC.
+--------------
+  🔥🥋 In Brazilian Jiu-Jitsu Training 🔥 SINCE 2021.08
+
+  
+  
+  
 📫 How to reach me
 --------------------
   sad6601@naver.com <br>
   https://www.instagram.com/kwon_hyunwook/
   
+  
+  
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunwook-Kwon)](https://github.com/Hyunwook-Kwon/github-readme-stats)<br>
+  
+  
+  
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunwook-Kwon)](https://github.com/Hyunwook-Kwon/github-readme-stats)
+
 <!--
 **Hyunwook-Kwon/Hyunwook-Kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

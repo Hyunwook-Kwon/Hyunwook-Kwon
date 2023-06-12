@@ -39,8 +39,8 @@
   
 ETC.
 --------------
-  🔥🥋 In Brazilian Jiu-Jitsu Training 🔥 SINCE 2021.08
-  🏥interest in rehabilitation
+  🔥🥋 In Brazilian Jiu-Jitsu Training 🔥 SINCE 2021.08 <br>
+  💪 🏥interest in rehabilitation and muscles 💪
   
   
   

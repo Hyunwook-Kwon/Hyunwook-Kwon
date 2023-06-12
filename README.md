@@ -22,7 +22,8 @@
 
 💼 Projects
 ------------
-https://img.shields.io/badge/-EDA-lightgrey 
+<img src="https://img.shields.io/badge/-EDA-lightgrey "/>
+
 KID-F - Making high quality face image dataset of K-pop female idol.
 EDA IdolGAN - Researching and developing super resolution model for restoring K-pop girl group idols.
 

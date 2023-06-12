@@ -1,8 +1,8 @@
 ### Hi there 👋 <br>
-###I'm Hyun-wook Kwon.<br>
-###Junior Student in Sejong University 
+I'm Hyun-wook Kwon.<br>
+Junior Student in Sejong University 
 
-####🤩Skills 
+🤩Skills 
 ------------
 ## Laguages
 

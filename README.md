@@ -1,78 +1,71 @@
-### Hi there 👋 <br>
-I'm Hyun-wook Kwon.<br>
-Junior Student in Sejong University 
+## Hi there 👋 
+I'm **Hyun-wook Kwon**.
 
-🤩Skills 
-------------
-### Languages
+- 🎓 **Expected B.S. in Artificial Intelligence (Feb 2025)**, Sejong University  
+- 🎓 **Prospective Graduate Student**, Department of AI & Data Science, Sejong University  
+- 🔬 **Medical AI Researcher** under Prof. Mugahed A. Al-antari, Ph.D. at **[AISSlab](https://aisslab.com/)**  
 
+---
+
+## Publication
+- **Title**: [A Novel AI-based Hybrid Ensemble Segmentation CAD System for Lumber Spine Stenosis Pathological Regions Using MRI Axial Images](https://ieeexplore.ieee.org/document/10710814)  
+- **Role**: Data collection and research assistance
+
+---
+
+## Projects
+
+### KID-F
+- **Goal**: Creating a high-quality face image dataset of K-pop female idols  
+- **Role**: dataset curation, data quality control  
+- **Highlights**: Implemented pre-processing pipelines and classification models to ensure dataset reliability
+
+### IdolGAN
+- **Goal**: Developing a **super resolution** model for restoring K-pop girl group idol images  
+- **Role**: Research and development with GAN-based approaches  
+- **Highlights**: Improved image quality and resolution using advanced deep learning techniques
+
+---
+
+## About Me
+- I focus on **Medical AI** research, exploring advanced deep learning models and medical imaging techniques.  
+- When I'm not coding, you'll likely find me training **Brazilian Jiu-Jitsu** (since 2021.08) or diving into **rehabilitation and muscle physiology**.
+
+---
+
+## Skills
+
+### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI
-
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+### AI/ML & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)<br>
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
+---
 
-🌱AI-cyber security<br>
-🌱NLP<br>
-🌱reinforcement learning<br>
+## Extra
+- 🥋 **Brazilian Jiu-Jitsu** (since Aug 2021)  
+- 💪 Interested in **rehabilitation**, **muscle training**, and exercise physiology
 
+---
 
+## How to Reach Me
+- **Email**: [sad6601@naver.com](mailto:sad6601@naver.com)  
+- **Instagram**: [@kwon_hyunwook](https://www.instagram.com/kwon_hyunwook/)  
+- **LinkedIn**: [Hyunwook Kwon](https://www.linkedin.com/in/%ED%98%84%EC%9A%B1-%EA%B6%8C-9776b5284/)  
+- **ResearchGate**: [Hyunwook Kwon](https://www.researchgate.net/profile/Hyunwook-Kwon-2)
 
+---
 
-
-💼 Projects
-------------
-`EDA`<a href="https://github.com/PCEO-AI-CLUB/KID-F"> KID-F<a/> - Making high quality face image dataset of K-pop female idol.
-                                                                                                                      
-`EDA` <a href="https://github.com/PCEO-AI-CLUB/IdolGAN"> IdolGAN<a/> - Researching and developing super resolution model for restoring K-pop girl group idols.
-
-  
-  
-  
-ETC.
---------------
-  🔥🥋 In Brazilian Jiu-Jitsu Training 🔥 SINCE 2021.08 <br>
-  💪 🏥interest in rehabilitation and muscles 💪
-  
-  
-  
-📫 How to reach me
---------------------
-  
-  sad6601@naver.com <br>
-  https://www.instagram.com/kwon_hyunwook/
-  
-  
-  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunwook-Kwon)](https://github.com/Hyunwook-Kwon/github-readme-stats)<br>
-  
-  
-  
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunwook-Kwon)](https://github.com/Hyunwook-Kwon/github-readme-stats)
-
-<!--
-**Hyunwook-Kwon/Hyunwook-Kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunwook-Kwon&layout=compact)](https://github.com/Hyunwook-Kwon/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunwook-Kwon&show_icons=true)](https://github.com/Hyunwook-Kwon/github-readme-stats)

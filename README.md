@@ -8,7 +8,7 @@ I'm **Hyun-wook Kwon**.
 ---
 
 ## Publication
-- **Title**: [A Novel AI-based Hybrid Ensemble Segmentation CAD System for Lumber Spine Stenosis Pathological Regions Using MRI Axial Images](https://ieeexplore.ieee.org/document/10710814)  
+- **Title**: [A Novel CAD Framework with Visual and Textual Interpretability: Multimodal Insights for Predicting Respiratory Diseases](https://ieeexplore.ieee.org/document/10710824)  
 - **Role**: Data collection and research assistance
 
 ---

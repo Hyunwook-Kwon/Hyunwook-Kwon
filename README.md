@@ -15,12 +15,12 @@ I'm **Hyun-wook Kwon**.
 
 ## Projects
 
-### KID-F
+### [KID-F](https://github.com/PCEO-AI-CLUB/KID-F)
 - **Goal**: Creating a high-quality face image dataset of K-pop female idols  
 - **Role**: dataset curation, data quality control  
 - **Highlights**: Implemented pre-processing pipelines and classification models to ensure dataset reliability
 
-### IdolGAN
+### [IdolGAN](https://github.com/PCEO-AI-CLUB/IdolGAN)
 - **Goal**: Developing a **super resolution** model for restoring K-pop girl group idol images  
 - **Role**: Research and development with GAN-based approaches  
 - **Highlights**: Improved image quality and resolution using advanced deep learning techniques
